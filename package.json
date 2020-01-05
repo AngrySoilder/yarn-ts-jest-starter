@@ -27,7 +27,7 @@
   "dependencies": {},
   "jest": {
     "roots": [
-      "<rootDir>/test"
+      "<rootDir>/src/test"
     ],
     "testMatch": [
       "**/__tests__/**/*.+(ts|tsx|js)",
