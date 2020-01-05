@@ -19,8 +19,13 @@
   "scripts": {
     "test": "jest",
     "start": "npm run build && node build/index.js",
-    "start:dev" : "nodemon",
+    "start:dev": "nodemon",
     "build": "rimraf ./build && tsc"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "jest": {
+    "clearMocks": true,
+    "coverageDirectory": "coverage",
+    "testEnvironment": "node"
+  }
 }
