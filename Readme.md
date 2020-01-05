@@ -1,5 +1,7 @@
 # TypeScript-Jest-Node Starter
 
+[![Build Status](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter.svg?branch=master)](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter)
+
 **Dependencies**
 ```
 yarn install 
