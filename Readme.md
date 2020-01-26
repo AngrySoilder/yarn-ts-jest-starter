@@ -1,6 +1,6 @@
 # TypeScript-Jest-Node Starter
 
-[![Build Status](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter.svg?branch=master)](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter)
+[![Build Status](https://travis-ci.org/al-chaudhari/yarn-ts-jest-starter.svg?branch=master)](https://travis-ci.org/al-chaudhari/yarn-ts-jest-starter)
 
 [![Coverage Status](https://coveralls.io/repos/github/al-chaudhari/yarn-ts-jest-starter/badge.svg?branch=master)](https://coveralls.io/github/al-chaudhari/yarn-ts-jest-starter?branch=master)
 
