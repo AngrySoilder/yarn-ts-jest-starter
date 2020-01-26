@@ -2,9 +2,11 @@
 
 [![Build Status](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter.svg?branch=master)](https://travis-ci.org/AngrySoilder/yarn-ts-jest-starter)
 
+[![Coverage Status](https://coveralls.io/repos/github/al-chaudhari/yarn-ts-jest-starter/badge.svg?branch=master)](https://coveralls.io/github/al-chaudhari/yarn-ts-jest-starter?branch=master)
+
 **Dependencies**
 ```
-yarn install 
+yarn install
 ```
 
 **Test**
@@ -25,5 +27,3 @@ yarn run start:dev // Start Development Server with Nodemon
 ```
 yarn run build // Rebuild
 ```
-
-
