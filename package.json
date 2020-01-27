@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Start For Me",
   "main": "index.js",
+  "keywords": [
+    "Terminal"
+  ],
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "author": "Akash Chaudhari",
   "license": "ISC",
   "devDependencies": {
