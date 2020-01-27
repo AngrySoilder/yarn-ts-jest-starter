@@ -39,3 +39,7 @@ build/**/*
 
 # ignore yarn.lock
 yarn.lock
+
+# Ignoring Git Ignores
+doc
+doc/**/*

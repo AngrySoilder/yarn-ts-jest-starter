@@ -27,3 +27,25 @@ yarn run start:dev // Start Development Server with Nodemon
 ```
 yarn run build // Rebuild
 ```
+
+**Lint**
+
+```
+yarn run lint
+```
+
+**format**
+```
+yarn run format
+```
+
+**doc**
+
+```
+yarn run doc
+
+```
+
+# Coverage Features
+
+It comes with Coveralls & TravisCI Configurations. Just Enable Travis Ci and Coveralls  `change your Badge`
