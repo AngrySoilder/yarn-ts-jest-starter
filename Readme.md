@@ -48,4 +48,4 @@ yarn run doc
 
 # Coverage Features
 
-It comes with Coveralls & TravisCI Configurations. Just Enable Travis Ci and Coveralls  `change your Badge`
+It comes with Coveralls & TravisCI Configurations. Just Enable Travis Ci and Coveralls  `change your Badge`.
