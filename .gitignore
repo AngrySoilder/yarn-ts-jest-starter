@@ -39,3 +39,8 @@ build/**/*
 
 # ignore yarn.lock
 yarn.lock
+
+
+# Ignore doc in main Branch we have doc for this
+doc
+doc/**/*

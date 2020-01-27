@@ -33,11 +33,9 @@
     "start": "npm run build && node build/index.js",
     "start:dev": "nodemon",
     "build": "rimraf ./build && tsc && npm run lint",
-    "lint" : "npm run lint:src && npm run lint:build",
-    "lint:src": "tsc --noEmit && eslint \"src/*.{js,ts}\" --quiet --fix",
-    "lint:build": "tsc --noEmit && eslint \"build/*.{js,ts}\" --quiet --fix",
+    "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
-    "doc" : "rimraf ./doc && typedoc "
+    "doc" : "rimraf ./doc && typedoc"
   },
   "dependencies": {},
   "jest": {
